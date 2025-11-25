@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Laura%20Duhalde%20Ulloa&fontSize=40" alt="banner"/>
 </p>
 
-# 👋 Hola, soy Laura Duhalde
+# 👋 Hola, soy Laura Duhalde Ulloa
 
 Soy Ingeniera en Informática y desarrolladora FullStack en formación, con experiencia en backend y gran interés en el desarrollo web. Me apasiona el aprendizaje continuo, el trabajo en equipo y la creación de soluciones tecnológicas eficientes.
 
