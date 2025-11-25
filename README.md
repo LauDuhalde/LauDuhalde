@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Laura%20Duhalde&fontSize=40" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Laura%20Duhalde%20Ulloa&fontSize=40" alt="banner"/>
 </p>
 
 # 👋 Hola, soy Laura Duhalde
